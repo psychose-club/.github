@@ -5,6 +5,14 @@ Feel free to look around our profile :)
 #
 PGP Public Key for our signed releases:
 
+Fingerprint:
+```
+C0D618DD91BE040793871BADADBCC3E81A842503
+```
+
+
+Public Key:
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
