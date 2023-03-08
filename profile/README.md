@@ -3,7 +3,31 @@
 
 Feel free to look around our profile :)
 #
-PGP Public Key for our signed releases:
+PGP Public Key for our signed maven releases:
+
+Fingerprint:
+```
+CEAA9DBFE71364BD3DA161F004B7EF57A96D241C
+```
+
+Public Key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZAj1QRYJKwYBBAHaRw8BAQdAfkDQ6kJi2pX36nCINnrZoGEo/I4YfLi/VH6N
+IjLIb0K0DXBzeWNob3NlLWNsdWKImQQTFgoAQRYhBM6qnb/nE2S9PaFh8AS371ep
+bSQcBQJkCPVBAhsDBQkDwy3vBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJ
+EAS371epbSQcmqoA/AyMcVC4iQXC4C1GI1rgLiRGVJWD4ea7hZYXrUSWckO5AQDd
+UCYJfSJ0h9c671mzbSYOhw0nh2agy0Jpi00Pv6rlBLg4BGQI9UESCisGAQQBl1UB
+BQEBB0CNc1lfqFEHHut4ghd5tQ58k0Aw9vuMKpHmexcmNQhFUAMBCAeIfgQYFgoA
+JhYhBM6qnb/nE2S9PaFh8AS371epbSQcBQJkCPVBAhsMBQkDwy3vAAoJEAS371ep
+bSQcO6oA/iV0jKFeiajrFZm95YNoo+fclu/uvcbV4iedqnt9RruRAQCh+PHmEE1z
+rEX8rFons/cr/ENl9cDMXuhFdGYrbELSAw==
+=TyBq
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+# Old (We have lost the key)
 
 Fingerprint:
 ```
