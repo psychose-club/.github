@@ -3,6 +3,8 @@
 
 Feel free to look around our profile :)
 #
+[Discord Server](https://discord.gg/CuexYTe4zx)
+#
 PGP Public Key for our signed maven releases:
 
 Fingerprint:
