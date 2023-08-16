@@ -1,0 +1,18 @@
+#if(!$field.array)
+    #set($paramName = "value")
+#else
+    #set($paramName = "values")
+#end
+#if($field.modifierStatic)
+static ##
+#end
+#if($field.modifierStatic && ($field.name == $paramName))
+    #set($paramName = "v")
+#end
+void set$StringUtil.capitalizeWithJavaBeanConvention($StringUtil.sanitizeJavaIdentifier($helper.getPropertyName($field, $project)))($field.type $paramName) {
+#if (!$field.modifierStatic)
+    this.$field.name = $paramName;
+#else
+    $field.name = $paramName;
+#end
+}
