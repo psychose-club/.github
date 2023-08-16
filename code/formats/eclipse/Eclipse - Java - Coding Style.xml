@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <profiles version="21">
 	<profile kind="CodeFormatterProfile" name="psychose.club - General" version="21">
-		<setting id="org.eclipse.jdt.core.formatter.tabulation.char" value="mixed"/>
-		<setting id="org.eclipse.jdt.core.formatter.use_tabs_only_for_leading_indentations" value="true"/>
+		<setting id="org.eclipse.jdt.core.formatter.tabulation.char" value="space"/>
+		<setting id="org.eclipse.jdt.core.formatter.use_tabs_only_for_leading_indentations" value="false"/>
 		<setting id="org.eclipse.jdt.core.formatter.indentation.size" value="4"/>
 		<setting id="org.eclipse.jdt.core.formatter.tabulation.size" value="4"/>
 		<setting id="org.eclipse.jdt.core.formatter.text_block_indentation" value="1"/>
@@ -235,7 +235,7 @@
 		<setting id="org.eclipse.jdt.core.formatter.insert_space_after_and_in_type_parameter" value="insert"/>
 		<setting id="org.eclipse.jdt.core.formatter.insert_space_before_question_in_wildcard" value="do not insert"/>
 		<setting id="org.eclipse.jdt.core.formatter.insert_space_after_question_in_wildcard" value="do not insert"/>
-		<setting id="org.eclipse.jdt.core.formatter.number_of_empty_lines_to_preserve" value="0"/>
+		<setting id="org.eclipse.jdt.core.formatter.number_of_empty_lines_to_preserve" value="1"/>
 		<setting id="org.eclipse.jdt.core.formatter.blank_lines_before_package" value="1"/>
 		<setting id="org.eclipse.jdt.core.formatter.blank_lines_after_package" value="1"/>
 		<setting id="org.eclipse.jdt.core.formatter.blank_lines_before_imports" value="1"/>
@@ -258,13 +258,13 @@
 		<setting id="org.eclipse.jdt.core.formatter.insert_new_line_before_finally_in_try_statement" value="do not insert"/>
 		<setting id="org.eclipse.jdt.core.formatter.insert_new_line_before_while_in_do_statement" value="do not insert"/>
 		<setting id="org.eclipse.jdt.core.formatter.insert_new_line_after_label" value="insert"/>
-		<setting id="org.eclipse.jdt.core.formatter.keep_then_statement_on_same_line" value="true"/>
+		<setting id="org.eclipse.jdt.core.formatter.keep_then_statement_on_same_line" value="false"/>
 		<setting id="org.eclipse.jdt.core.formatter.keep_imple_if_on_one_line" value="false"/>
-		<setting id="org.eclipse.jdt.core.formatter.keep_else_statement_on_same_line" value="true"/>
+		<setting id="org.eclipse.jdt.core.formatter.keep_else_statement_on_same_line" value="false"/>
 		<setting id="org.eclipse.jdt.core.formatter.compact_else_if" value="true"/>
-		<setting id="org.eclipse.jdt.core.formatter.keep_simple_for_body_on_same_line" value="true"/>
-		<setting id="org.eclipse.jdt.core.formatter.keep_simple_while_body_on_same_line" value="true"/>
-		<setting id="org.eclipse.jdt.core.formatter.keep_simple_do_while_body_on_same_line" value="true"/>
+		<setting id="org.eclipse.jdt.core.formatter.keep_simple_for_body_on_same_line" value="false"/>
+		<setting id="org.eclipse.jdt.core.formatter.keep_simple_while_body_on_same_line" value="false"/>
+		<setting id="org.eclipse.jdt.core.formatter.keep_simple_do_while_body_on_same_line" value="false"/>
 		<setting id="org.eclipse.jdt.core.formatter.insert_new_line_after_annotation_on_package" value="insert"/>
 		<setting id="org.eclipse.jdt.core.formatter.insert_new_line_after_annotation_on_type" value="insert"/>
 		<setting id="org.eclipse.jdt.core.formatter.insert_new_line_after_annotation_on_enum_constant" value="do not insert"/>
