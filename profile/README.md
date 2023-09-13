@@ -1,6 +1,8 @@
 ### 💜 Welcome to psychose.club 💜
 #### We are a small development team from 🇩🇪
-
+#
+Note: The profile picture was generated with Craiyon.
+#
 Feel free to look around our profile :)
 #
 [Discord Server](https://discord.gg/CuexYTe4zx)
