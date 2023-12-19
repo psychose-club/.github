@@ -1,3 +1,4 @@
+!!REMOVE THIS LINE - Note: When importing the template to the getter field in IntelliJ it might be the case that line 15, will not be imported correctly, make sure that the template is inserted like it is below!!
 #if($field.modifierStatic)
 static ##
 #end
